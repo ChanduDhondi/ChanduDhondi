@@ -15,4 +15,4 @@ I'm a Mathematics Graduated with a strong passion for Software Development and P
 
 - 🌱 I’m currently enhancing my skills in **Django, Flask, AWS, Machine Learning, DSA**
 
-- 📫 How to reach me **chanudhondi23@gmail.co,**
+- 📫 How to reach me **chanudhondi23@gmail.com**
