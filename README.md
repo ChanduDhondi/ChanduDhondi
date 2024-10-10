@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Mathematics Graduated with a strong passion for Software Development and Problem-Solving. Currently looking for the Software Developer role.<br> Ex- Gan.AI, Tech Mahindra
+I am Chandu Dhondi, with 1.2 years of experience as Python Developer, I enhaced my skills in software development, in backend.<br> Ex- Gan.AI, Tech Mahindra
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandudhondi&label=Profile%20views&color=0e75b6&style=flat" alt="chandudhondi" /> </p>
 
